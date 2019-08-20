@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Heart
+                    Heart Git
                 </div>
 
                 <div class="links">
